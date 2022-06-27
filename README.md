@@ -53,3 +53,6 @@ $ ./select-my-middle-school.py ILE-DE-FRANCE HAUTS-DE-SEINE,PARIS,VAL-DE-MARNE N
 >>> Sort records by : 'Taux très bien %', 'Admis', 'Taux de réussite', 'Rank Distance', 'Rank Departement'
 >>> Write output : 'college_selection.csv'
 ```
+
+### Visualisation as a map 
+![alt text](./images/MiddleSchoolRanking.png "MiddleSchoolRanking")
